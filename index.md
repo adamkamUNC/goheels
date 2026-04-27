@@ -3,7 +3,7 @@
 layout: default
 ---
 
-# This is a big header
+# Kamholz & Moshe Comp110 Project
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 <img src="goheels/static/imgs/unknown.png" alt="Image of graph 1. "  width="500"/>
