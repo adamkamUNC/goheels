@@ -6,9 +6,9 @@ layout: default
 # Kamholz & Moshe Comp110 Project
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="static/imgs/unknown.png" alt="Image of graph 1. "  width="500"/>
-<img src="static/imgs/unknown2.png" alt="Image of graph 2. "  width="500"/>
-<img src="static/imgs/unknown3.png" alt="Image of graph 3. "  width="500"/>
+<img src="static/imgs/Unknown.png" alt="Image of graph 1. "  width="500"/>
+<img src="static/imgs/Unknown-2.png" alt="Image of graph 2. "  width="500"/>
+<img src="static/imgs/Unknown-3.png" alt="Image of graph 3. "  width="500"/>
 
 ## Plot Explinations
 Plot 1: Distribution of Difficulty Ratings among Students With Prior Experience 
